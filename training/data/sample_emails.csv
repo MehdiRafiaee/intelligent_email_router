@@ -1,1 +1,10 @@
+text,label
+"Hello, I need help with billing","billing"
+"My account is not working, please fix","technical"
+"I want to cancel my subscription","support"
+"How much does the premium plan cost?","sales"
+"Payment failed for my last order","billing"
+"The app crashes when I try to login","technical"
+"Can I get a discount for yearly plan?","sales"
+"I forgot my password, help me reset","support"
 
